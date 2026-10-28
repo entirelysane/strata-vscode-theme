@@ -1,7 +1,8 @@
 # Strata VS Code theme
 
-Light and dark theme for [strata](https://github.com/lgse/strata)
-Both themes are inspired by the colors schemes from [Mofiqul/vscode.nvim](https://github.com/mofiqul/vscode.nvim)
+Light and dark theme for [strata](https://github.com/lgse/strata).
+
+Both themes are inspired by the colors schemes from [Mofiqul/vscode.nvim](https://github.com/mofiqul/vscode.nvim).
 
 ## Installation
 
