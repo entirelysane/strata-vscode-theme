@@ -1,0 +1,1 @@
+# Strata VS Code theme
