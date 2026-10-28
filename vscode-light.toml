@@ -1,0 +1,11 @@
+name = "VS Code Light"
+background = "#ffffff"
+surface = "#f3f3f3"
+text = "#343434"
+accent = "#285eba"
+danger = "#ad0707"
+muted = "#e5e5e5"
+highlight = "#add6ff"
+border = "#dddddd"
+dim_text = "#767676"
+
